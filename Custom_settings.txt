@@ -1,0 +1,5 @@
+show_attacks = True
+show_villager_deaths = True
+show_idle_villager = True
+show_floating_ressources = True
+custom_sampling_frequency = 10
